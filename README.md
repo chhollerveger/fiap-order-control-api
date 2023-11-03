@@ -1,13 +1,10 @@
-# tech-challenge-orders-project
-Project Tech Challenge Group 62
+# Order Control
 
-
+Order control project carried out for the Tech Challenge of the postgraduate course in Software Architecture at FIAP.
 
 ## Deploy
 
-Para rodar o projeto você precisa configurar o arquivo .env, utilizando como base o .env.example.
-
-Feito isso, basta executar o comando Docker.
+To run the project you need to configure the .env file, using .env.example as a base. Once this is done, just run the Docker command:
 
 ```bash
   docker-compose up
@@ -20,3 +17,10 @@ http://localhost:3000/docs
 ## Postman Collection
 
 https://github.com/denilsonos/tech-challenge-orders-project/blob/main/Tech%20Challenge%20Collection.postman_collection.json
+
+### Contributors
+
+- [Denilson Oliveira](https://github.com/denilsonos)
+- Vinicius Moreira
+- Hélio Soares
+- Clécio Silva
