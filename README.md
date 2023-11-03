@@ -14,10 +14,6 @@ To run the project you need to configure the .env file, using .env.example as a 
 
 http://localhost:3000/docs
 
-## Postman Collection
-
-https://github.com/denilsonos/tech-challenge-orders-project/blob/main/Tech%20Challenge%20Collection.postman_collection.json
-
 ### Contributors
 
 - [Denilson Oliveira](https://github.com/denilsonos)
